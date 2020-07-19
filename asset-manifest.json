@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/i1-kmv/React-Blog/static/css/main.171d9cf1.chunk.css",
-    "main.js": "/i1-kmv/React-Blog/static/js/main.0fb92255.chunk.js",
-    "main.js.map": "/i1-kmv/React-Blog/static/js/main.0fb92255.chunk.js.map",
-    "runtime-main.js": "/i1-kmv/React-Blog/static/js/runtime-main.d10df2eb.js",
-    "runtime-main.js.map": "/i1-kmv/React-Blog/static/js/runtime-main.d10df2eb.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/i1-kmv/React-Blog/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.7ad61ae4.chunk.js": "/i1-kmv/React-Blog/static/js/2.7ad61ae4.chunk.js",
-    "static/js/2.7ad61ae4.chunk.js.map": "/i1-kmv/React-Blog/static/js/2.7ad61ae4.chunk.js.map",
-    "index.html": "/i1-kmv/React-Blog/index.html",
-    "precache-manifest.b974974c60015b4c193b9809ca870a30.js": "/i1-kmv/React-Blog/precache-manifest.b974974c60015b4c193b9809ca870a30.js",
-    "service-worker.js": "/i1-kmv/React-Blog/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/i1-kmv/React-Blog/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.171d9cf1.chunk.css.map": "/i1-kmv/React-Blog/static/css/main.171d9cf1.chunk.css.map",
-    "static/js/2.7ad61ae4.chunk.js.LICENSE.txt": "/i1-kmv/React-Blog/static/js/2.7ad61ae4.chunk.js.LICENSE.txt"
+    "main.css": "/React-Blog/static/css/main.171d9cf1.chunk.css",
+    "main.js": "/React-Blog/static/js/main.0fb92255.chunk.js",
+    "main.js.map": "/React-Blog/static/js/main.0fb92255.chunk.js.map",
+    "runtime-main.js": "/React-Blog/static/js/runtime-main.2e8e49a3.js",
+    "runtime-main.js.map": "/React-Blog/static/js/runtime-main.2e8e49a3.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/React-Blog/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.f6f9a94c.chunk.js": "/React-Blog/static/js/2.f6f9a94c.chunk.js",
+    "static/js/2.f6f9a94c.chunk.js.map": "/React-Blog/static/js/2.f6f9a94c.chunk.js.map",
+    "index.html": "/React-Blog/index.html",
+    "precache-manifest.9a9bfa30a9f7a16fd53e0adc1fc32614.js": "/React-Blog/precache-manifest.9a9bfa30a9f7a16fd53e0adc1fc32614.js",
+    "service-worker.js": "/React-Blog/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/React-Blog/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.171d9cf1.chunk.css.map": "/React-Blog/static/css/main.171d9cf1.chunk.css.map",
+    "static/js/2.f6f9a94c.chunk.js.LICENSE.txt": "/React-Blog/static/js/2.f6f9a94c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d10df2eb.js",
+    "static/js/runtime-main.2e8e49a3.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.7ad61ae4.chunk.js",
+    "static/js/2.f6f9a94c.chunk.js",
     "static/css/main.171d9cf1.chunk.css",
     "static/js/main.0fb92255.chunk.js"
   ]
